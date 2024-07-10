@@ -1,5 +1,4 @@
 google.com, pub-8754827691656851, DIRECT, f08c47fec0942fa0
-facebook.com, 383956010758489, DIRECT, c3e20eee3f780d68
 #ironSrc#
 ironsrc.com, 542633, Direct
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
